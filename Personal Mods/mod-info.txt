@@ -1,0 +1,6 @@
+[mod]
+title: Advanced Warfare
+description: True value/longer ranges of engagement present in this mod, becareful when using in smaller maps!
+tags: units, tank
+
+thumbnail: Combat Tank thumbnail.png

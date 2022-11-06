@@ -1,0 +1,6 @@
+[mod]
+title: Advanced Warfare-H
+description: Halved value/shorter ranges of engagement present in this mod, slightly less mobile in larger maps...
+tags: units, tank
+
+thumbnail: Combat Tank thumbnail.png
